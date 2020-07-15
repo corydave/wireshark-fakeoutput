@@ -1,8 +1,9 @@
 # wireshark-fakeoutput
 When making screenshots of WireShark and you just need fake, formatted output
 
-Here's a sample:
-================================
+SAMPLE OUTPUT:
+---
+
 ```
 68  0.5986         192.168.1.13          192.168.1.20           TCP      107   40467 → 25710
 69  0.6127         192.168.1.15          192.168.1.20           TCP      152   31798 → 34267
