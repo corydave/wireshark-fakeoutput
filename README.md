@@ -3,7 +3,7 @@ When making screenshots of WireShark and you just need fake, formatted output
 
 Here's a sample:
 ================================
-
+```
 68  0.5986         192.168.1.13          192.168.1.20           TCP      107   40467 → 25710
 69  0.6127         192.168.1.15          192.168.1.20           TCP      152   31798 → 34267
 70  0.6860         192.168.1.12          192.168.1.16           TCP      063   53032 → 10713
@@ -35,3 +35,4 @@ Transmission Control Protocol, Src Port: 53162, Dst Port: 8109, Seq: 1, Ack: 1, 
 0070   71 30 da df 82 28 92 ec  01 35 e3 a1 93 21 b2 a6    ..t.....  ..C....M
 0080   2d fe a4 b1 7b 17 03 00  8e 21 36 c3 14 85 eb b7    :U.|aZ.F  D..m@...
 0090   89 32 11 eb 17 a3 32 49  62 d5 30 a2 05 5a ca 35    .......S  .....r.4
+```
